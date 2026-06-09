@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+scipy
+playsound
+mediapipe
+pycaw
+comtypes
+ultralytics
+pygame

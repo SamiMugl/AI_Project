@@ -1,0 +1,111 @@
+Timestamp,Alert Type,Current Speed
+2026-03-15 17:13:08,Sleeping,77 km/h
+2026-03-15 17:13:29,Distraction,77 km/h
+2026-03-15 17:13:41,Distraction,77 km/h
+2026-03-15 17:13:55,Sleeping,77 km/h
+2026-03-15 17:13:58,Sleeping,77 km/h
+2026-03-15 17:14:03,Sleeping,77 km/h
+2026-03-15 17:14:04,Sleeping,77 km/h
+2026-03-15 17:14:04,Sleeping,77 km/h
+2026-03-15 17:14:05,Sleeping,77 km/h
+2026-03-15 17:14:11,Sleeping,77 km/h
+2026-03-15 17:14:15,Sleeping,77 km/h
+2026-03-15 17:14:17,Sleeping,77 km/h
+2026-03-15 17:14:18,Sleeping,77 km/h
+2026-03-15 17:14:19,Sleeping,77 km/h
+2026-03-15 17:14:19,Sleeping,77 km/h
+2026-03-15 17:14:20,Sleeping,77 km/h
+2026-03-15 17:14:20,Sleeping,77 km/h
+2026-03-15 17:14:22,Sleeping,77 km/h
+2026-03-15 17:14:23,Sleeping,77 km/h
+2026-03-15 17:14:23,Sleeping,77 km/h
+2026-03-15 17:14:24,Sleeping,77 km/h
+2026-03-15 17:14:25,Sleeping,77 km/h
+2026-03-15 17:14:26,Sleeping,77 km/h
+2026-03-15 17:14:33,Sleeping,77 km/h
+2026-03-15 17:14:34,Sleeping,77 km/h
+2026-03-15 17:14:35,Sleeping,77 km/h
+2026-03-15 17:14:36,Sleeping,77 km/h
+2026-03-15 17:14:50,Distraction,77 km/h
+2026-03-15 17:14:51,Sleeping,77 km/h
+2026-03-15 17:14:52,Sleeping,77 km/h
+2026-03-15 17:15:01,Distraction,77 km/h
+2026-03-15 17:15:16,Distraction,77 km/h
+2026-03-15 17:15:21,Distraction,77 km/h
+2026-03-15 17:15:30,Distraction,77 km/h
+2026-03-15 17:16:21,Distraction,78 km/h
+2026-03-15 17:16:27,Distraction,78 km/h
+2026-05-31 15:55:00,Sleeping,75 km/h
+2026-05-31 15:55:08,Sleeping,75 km/h
+2026-05-31 15:56:43,Distraction,76 km/h
+2026-05-31 15:56:54,Distraction,76 km/h
+2026-05-31 15:57:06,Sleeping,76 km/h
+2026-05-31 15:57:20,Sleeping,76 km/h
+2026-05-31 15:57:30,Distraction,76 km/h
+2026-05-31 15:57:32,Sleeping,76 km/h
+2026-05-31 15:59:40,Sleeping,78 km/h
+2026-05-31 16:04:13,Sleeping,78 km/h
+2026-05-31 16:04:33,Distraction,78 km/h
+2026-05-31 16:04:44,Sleeping,78 km/h
+2026-05-31 16:04:52,Sleeping,25 km/h
+2026-05-31 16:04:53,Sleeping,78 km/h
+2026-05-31 16:04:53,Sleeping,78 km/h
+2026-05-31 16:04:53,Sleeping,78 km/h
+2026-05-31 16:04:55,Sleeping,78 km/h
+2026-05-31 16:04:56,Sleeping,78 km/h
+2026-05-31 16:04:57,Sleeping,78 km/h
+2026-05-31 16:05:05,Sleeping,78 km/h
+2026-05-31 16:05:08,Sleeping,78 km/h
+2026-05-31 16:05:09,Sleeping,78 km/h
+2026-05-31 16:05:18,Sleeping,78 km/h
+2026-05-31 16:05:19,Sleeping,78 km/h
+2026-05-31 16:05:19,Sleeping,78 km/h
+2026-05-31 16:05:20,Sleeping,78 km/h
+2026-05-31 16:05:21,Sleeping,78 km/h
+2026-05-31 16:05:29,Sleeping,78 km/h
+2026-05-31 16:05:31,Sleeping,78 km/h
+2026-05-31 16:11:38,Sleeping,78 km/h
+2026-05-31 16:12:02,Sleeping,78 km/h
+2026-05-31 16:12:12,Look Left,78 km/h
+2026-05-31 16:12:20,Look Right,78 km/h
+2026-05-31 16:12:36,Look Up,78 km/h
+2026-05-31 16:12:48,Look Down,78 km/h
+2026-05-31 16:15:47,Sleeping,76 km/h
+2026-05-31 16:16:13,Look Left,76 km/h
+2026-05-31 16:18:35,Look Down,79 km/h
+2026-05-31 16:20:00,Sleeping,80 km/h
+2026-05-31 16:20:27,Look Up,80 km/h
+2026-05-31 16:20:40,Look Right,80 km/h
+2026-05-31 16:20:56,Look Left,80 km/h
+2026-05-31 16:21:13,Look Down,80 km/h
+2026-05-31 16:23:02,Sleeping,76 km/h
+2026-05-31 16:23:58,Sleeping,80 km/h
+2026-05-31 16:24:21,Look Right,80 km/h
+2026-05-31 16:54:00,Look Right,76 km/h
+2026-05-31 16:54:33,Look Right,76 km/h
+2026-05-31 17:00:45,Sleeping,80 km/h
+2026-05-31 17:00:53,Look Up,80 km/h
+2026-05-31 17:01:08,Look Right,80 km/h
+2026-05-31 17:01:16,Look Left,80 km/h
+2026-05-31 17:01:25,Look Down,80 km/h
+2026-05-31 17:01:33,Sleeping,80 km/h
+2026-06-02 22:46:31,Look Right,78 km/h
+2026-06-02 22:46:44,Sleeping,78 km/h
+2026-06-04 10:58:02,Sleeping,78 km/h
+2026-06-04 10:58:22,Look Right,78 km/h
+2026-06-04 10:59:01,Sleeping,78 km/h
+2026-06-08 13:50:23,Sleeping,78 km/h
+2026-06-08 13:50:44,Look Right,78 km/h
+2026-06-08 13:51:00,Look Left,78 km/h
+2026-06-08 13:51:14,Look Down,78 km/h
+2026-06-08 13:51:35,Look Up,78 km/h
+2026-06-08 13:51:45,Look Up,78 km/h
+2026-06-08 13:53:06,Look Down,78 km/h
+2026-06-08 13:53:43,Look Right,78 km/h
+2026-06-08 13:54:19,Look Up,78 km/h
+2026-06-08 13:54:46,Sleeping,78 km/h
+2026-06-08 13:55:47,Sleeping,78 km/h
+2026-06-08 13:55:58,Sleeping,78 km/h
+2026-06-09 08:58:08,Look Right,76 km/h
+2026-06-09 09:14:59,Look Left,76 km/h
+2026-06-09 09:16:06,Sleeping,76 km/h
